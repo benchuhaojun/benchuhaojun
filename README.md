@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @benchuhaojun
 - 👀 I’m interested in webservces
 - 🌱 I’m currently learning awss3, angular, sql
-- 💞️ I’m looking to collaborate on money making stuff
 - 📫 How to reach me chu_haojun@hotmail.com
 
 <!---
